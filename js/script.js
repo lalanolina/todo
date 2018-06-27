@@ -1,14 +1,3 @@
-//anotações de estudo, favor desconsiderar caso eu tenha esquecido de deletar antes do envio :P
-//let storedTodos = ['Tarefa 1', 'Tarefa 2', 'Tarefa 3', 'Tarefa 4', 'Tarefa 5'];
-//localStorage.setItem('todos', JSON.stringify(storedTodos));
-//localStorage.clear();
-
-
-
-
-
-
-
 'use strict';
 
 //ícones
